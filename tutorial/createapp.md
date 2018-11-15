@@ -11,7 +11,7 @@ $ cd $GOPATH
 $ revel new myapp
 Revel executing: create a skeleton Revel application
 Your application has been created in:
-   /home/me/gostuff/myapp
+   /home/me/gostuff/src/myapp
 
 You can run it with:
    revel run -a  myapp
